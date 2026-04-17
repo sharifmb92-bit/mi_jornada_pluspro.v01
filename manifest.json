@@ -1,0 +1,23 @@
+{
+  "name": "MED BASHA PRO",
+  "short_name": "BusLog",
+  "description": "Registro de jornada para conductores de bus en Menorca",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAA... (CÓDIGO BASE64 DEL AUTOBÚS)",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAA... (CÓDIGO BASE64 DEL AUTOBÚS GRANDE)",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
